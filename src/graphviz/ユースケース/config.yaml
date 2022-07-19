@@ -1,0 +1,14 @@
+actor1:
+  name: 作業者
+  shape: circle
+  edges:
+    junshi:
+      label: あ
+    kansa:
+      label: い
+junshi:
+  name: 巡視
+  shape: oval
+kansa:
+  name: 監査
+  shape: oval
